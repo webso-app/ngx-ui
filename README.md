@@ -1,6 +1,9 @@
-# WebsoUi
+# Webso.app UI workspace
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.14.
+
+## Documentation (Storybook)
+Run `npm run storybook` for a docs server. Navigate to `http://localhost:6006/`.
 
 ## Development server
 
